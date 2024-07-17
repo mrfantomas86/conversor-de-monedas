@@ -1,6 +1,6 @@
 <h1>Conversor de monedas</h1>
 
-- Estado : En construcción
+- Estado : Terminado
 
 Para ejecutar el conversor, debes poner:
 
